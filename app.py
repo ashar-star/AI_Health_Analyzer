@@ -318,4 +318,4 @@ st.markdown(f"""
   </div>
   <div class="avatar-status">{emotion}</div>
 </div>
-""", unsafe_
+""", unsafe_allow_html=True)
